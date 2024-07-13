@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+
+.demo h1{
+    font-size: 100px;
+    font-weight: bolder;
+    color: white;
+}
+img{
+    height: 15rem;
+    width: 35rem;
+}
